@@ -50,3 +50,10 @@ If you don’t have a requirements.txt file yet, create one automatically by run
 ```bash
 pip freeze > requirements.txt
 ```
+
+3️⃣ Run the app locally
+```bash
+streamlit run app.py
+```
+
+Then open the URL shown in your terminal, e.g. ```http://localhost:8501.```
