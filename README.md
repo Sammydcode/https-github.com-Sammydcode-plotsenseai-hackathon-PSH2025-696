@@ -1,11 +1,11 @@
-# 💳 Credit Card Transaction Anomaly Detector
+# Credit Card Transaction Anomaly Detector
 
-## 👤 User ID
+## User ID
 **User ID:** PSH2025-696
 
 ---
 
-## 🧠 Project Description
+## Project Description
 This project, **Credit Card Transaction Anomaly Detector**, is a hybrid AI-powered system designed to detect suspicious or fraudulent credit card transactions in real time.
 
 It combines:
@@ -36,3 +36,17 @@ This project was developed as part of the **PlotSense AI Hackathon**, showcasing
 ```bash
 git clone https://github.com/YOUR_USERNAME/credit-card-anomaly-detector.git
 cd credit-card-anomaly-detector
+```
+### 2️⃣ Install dependencies
+
+Make sure Python 3.10+ is installed, then run:
+
+```bash
+pip install -r requirements.txt
+```
+
+If you don’t have a requirements.txt file yet, create one automatically by running this:
+
+```bash
+pip freeze > requirements.txt
+```
