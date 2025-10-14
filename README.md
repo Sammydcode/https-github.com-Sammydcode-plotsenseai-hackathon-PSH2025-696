@@ -1,7 +1,6 @@
 # Credit Card Transaction Anomaly Detector
 
-## User ID
-**User ID:** PSH2025-696
+**USER ID:** PSH2025-696
 
 ---
 
@@ -34,8 +33,8 @@ This project was developed as part of the **PlotSense AI Hackathon**, showcasing
 
 ### 1️⃣ Clone this repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/credit-card-anomaly-detector.git
-cd credit-card-anomaly-detector
+https://github.com/Sammydcode/plotsenseai-hackathon--PSH2025-696-.git
+cd plotsenseai-hackathon--PSH2025-696-
 ```
 ### 2️⃣ Install dependencies
 
@@ -51,9 +50,50 @@ If you don’t have a requirements.txt file yet, create one automatically by run
 pip freeze > requirements.txt
 ```
 
-3️⃣ Run the app locally
+### 3️⃣ Run the app locally
 ```bash
 streamlit run app.py
 ```
 
 Then open the URL shown in your terminal, e.g. ```http://localhost:8501.```
+
+
+**Notes:**
+
+- Ensure the file isolation_forest_model.pkl and your dataset (e.g. preprocessed_data.csv) are in the same folder as app.py.
+
+- Make sure your PlotSense API key is set as an environment variable using:
+
+```bash
+setx GROQ_API_KEY "your_actual_groq_key_here"
+```
+
+(on Windows) or
+
+```bash
+export GROQ_API_KEY="your_actual_groq_key_here"
+```
+
+(on macOS/Linux)
+
+
+## Team Members & Roles
+
+- **Samuel Osaruonamen Amadasun** — Data Scientist / Developer
+
+> *Project built and documented by Samuel with support from AI tools (ChatGPT, OpenAI GPT-5) for brainstorming and technical refinement.*
+
+
+## Video Demo
+
+Watch the demo here:
+
+Demo Video Link
+
+## Social Media Post
+
+Check out my hackathon submission post:
+
+🔗 LinkedIn/Twitter Post
+
+
