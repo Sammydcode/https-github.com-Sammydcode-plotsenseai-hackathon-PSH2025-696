@@ -29,53 +29,61 @@ This project was developed as part of the **PlotSense AI Hackathon**, showcasing
 
 ---
 
-## ⚙️ Setup Instructions
+## Setup Instructions
 
 ### 1️⃣ Clone this repository
 ```bash
-https://github.com/Sammydcode/plotsenseai-hackathon--PSH2025-696-.git
+git clone https://github.com/YOUR_USERNAME/plotsenseai-hackathon--PSH2025-696-.git
 cd plotsenseai-hackathon--PSH2025-696-
 ```
 ### 2️⃣ Install dependencies
 
 Make sure Python 3.10+ is installed, then run:
-
 ```bash
 pip install -r requirements.txt
 ```
 
-If you don’t have a requirements.txt file yet, create one automatically by running this:
-
+If you don’t have a requirements.txt file yet, create one automatically by running:
 ```bash
 pip freeze > requirements.txt
 ```
 
-### 3️⃣ Run the app locally
-```bash
-streamlit run app.py
-```
+### 3️⃣ Download datasets
 
-Then open the URL shown in your terminal, e.g. ```http://localhost:8501.```
+The project uses two datasets:
 
+- Raw dataset
 
-**Notes:**
+- Preprocessed dataset
 
-- Ensure the file isolation_forest_model.pkl and your dataset (e.g. preprocessed_data.csv) are in the same folder as app.py.
+You can download them from Google Drive:
 
-- Make sure your PlotSense API key is set as an environment variable using:
+- Raw dataset: [Insert Google Drive link here]
 
+- Preprocessed dataset: [Insert Google Drive link here]
+
+Place both files in the same folder as app.py.
+
+4️⃣ Set PlotSense API Key
+
+Before running the app, make sure your PlotSense API key is set as an environment variable:
+
+Windows:
 ```bash
 setx GROQ_API_KEY "your_actual_groq_key_here"
 ```
 
-(on Windows) or
-
+macOS / Linux:
 ```bash
 export GROQ_API_KEY="your_actual_groq_key_here"
 ```
 
-(on macOS/Linux)
+5️⃣ Run the app locally
+```bash
+streamlit run app.py
+```
 
+Open the URL shown in your terminal e.g., ```http://localhost:8501``` to access the app.
 
 ## Team Members & Roles
 
