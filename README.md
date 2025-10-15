@@ -102,8 +102,8 @@ Watch the demo here:
 
 Check out my hackathon submission post:
 
-X: ```https://x.com/AmadasunSamuel```
+X: [https://x.com/AmadasunSamuel]
 
-Linkedin: ```https://www.linkedin.com/in/samuel-amadasun-273109374/```
+Linkedin: [https://www.linkedin.com/in/samuel-amadasun-273109374/]
 
 
