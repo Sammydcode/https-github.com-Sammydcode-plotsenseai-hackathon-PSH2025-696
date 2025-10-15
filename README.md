@@ -33,8 +33,8 @@ This project was developed as part of the **PlotSense AI Hackathon**, showcasing
 
 ### 1️⃣ Clone this repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/plotsenseai-hackathon--PSH2025-696-.git
-cd plotsenseai-hackathon--PSH2025-696-
+git clone https://github.com/YOUR_USERNAME/plotsenseai-hackathon-PSH2025-696-.git
+cd plotsenseai-hackathon-PSH2025-696-
 ```
 ### 2️⃣ Install dependencies
 
