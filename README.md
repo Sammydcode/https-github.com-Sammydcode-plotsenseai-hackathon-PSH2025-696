@@ -102,6 +102,8 @@ Watch the demo here:
 
 Check out my hackathon submission post:
 
-🔗 LinkedIn/Twitter Post
+X: ```https://x.com/AmadasunSamuel```
+
+Linkedin: ```https://www.linkedin.com/in/samuel-amadasun-273109374/```
 
 
