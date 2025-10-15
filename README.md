@@ -58,9 +58,9 @@ The project uses two datasets:
 
 You can download them from Google Drive:
 
-- Raw dataset: [Insert Google Drive link here]
+- Raw dataset: [https://drive.google.com/file/d/1vBYfrHlbqbaCmixBFdSxU_jR5o9ElFF0/view?usp=drive_link]
 
-- Preprocessed dataset: [Insert Google Drive link here]
+- Preprocessed dataset: [https://drive.google.com/file/d/1I7sTD3zthe1nLJq6GKchSNQiX6DWstxN/view?usp=drive_link]
 
 Place both files in the same folder as app.py.
 
@@ -96,7 +96,7 @@ Open the URL shown in your terminal e.g., ```http://localhost:8501``` to access 
 
 Watch the demo here:
 
-Demo Video Link
+[https://youtu.be/RMOajjFoLQE]
 
 ## Social Media Post
 
