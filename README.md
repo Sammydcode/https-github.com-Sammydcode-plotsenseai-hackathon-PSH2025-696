@@ -1,4 +1,4 @@
-# Credit Card Transaction Anomaly Detector
+# Credit Card Transaction Anomaly-Detector
 
 **USER ID:** PSH2025-696
 
