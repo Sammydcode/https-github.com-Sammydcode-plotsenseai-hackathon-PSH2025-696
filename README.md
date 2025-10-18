@@ -102,8 +102,8 @@ Watch the demo here:
 
 Check out my hackathon submission post:
 
-X: [https://x.com/AmadasunSamuel]
+X: [https://x.com/AmadasunSamuel/status/1978257583031861659]
 
-Linkedin: [https://www.linkedin.com/in/samuel-amadasun-273109374/]
+Linkedin: [https://www.linkedin.com/posts/samuel-amadasun-273109374_plotsenseai-machinelearning-datascience-activity-7384032648316301312-PAO9?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFyQijcBOtjr9cATdbDv6OPKJ5K2M68eHjQ]
 
 
