@@ -33,8 +33,8 @@ This project was developed as part of the **PlotSense AI Hackathon**, showcasing
 
 ### 1️⃣ Clone this repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/plotsenseai-hackathon-PSH2025-696-.git
-cd plotsenseai-hackathon-PSH2025-696-
+git clone https://github.com/YOUR_USERNAME/plotsenseai-hackathon-PSH2025-696.git
+cd plotsenseai-hackathon-PSH2025-696
 ```
 ### 2️⃣ Install dependencies
 
@@ -66,17 +66,30 @@ Place both files in the same folder as app.py.
 
 4️⃣ Set PlotSense API Key
 
-Before running the app, make sure your PlotSense API key is set as an environment variable:
+Setting Up Your API Key
 
-Windows:
-```bash
-setx GROQ_API_KEY "your_actual_groq_key_here"
-```
+To use this project, you’ll need an API key from Grocq (or whichever platform you’re using).
 
-macOS / Linux:
-```bash
-export GROQ_API_KEY="your_actual_groq_key_here"
-```
+Follow the steps below:
+
+- Get your API key
+
+- Go to the Grocq website.
+
+- Sign in or create an account.
+
+- Navigate to your Developer Settings → API Keys section.
+
+- Copy your secret API key.
+
+- Create a .env file in the root directory of your project.
+```This file will securely store your key so it doesn’t appear in your public code.```
+
+- Add your API key to the .env file like this:
+
+```bash 
+GROCQ_API_KEY=your_actual_api_key_here```
+
 
 5️⃣ Run the app locally
 ```bash
