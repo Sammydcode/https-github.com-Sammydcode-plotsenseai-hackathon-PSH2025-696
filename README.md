@@ -87,7 +87,13 @@ Follow the steps below:
 ```bash
 GROCQ_API_KEY=your_actual_api_key_here
 ```
-
+**Important Notes:**
+   - Do **not** include spaces around the `=` sign.  
+     Correct: `GROCQ_API_KEY=123456789abcdef`  
+     Wrong: `GROCQ_API_KEY = 123456789abcdef`
+   - Do **not** use quotes around your key.  
+     Correct: `GROCQ_API_KEY=123456789abcdef`  
+     Wrong: `GROCQ_API_KEY="123456789abcdef"`
 
 ### 5️⃣ Run the app locally
 
