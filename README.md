@@ -64,7 +64,7 @@ You can download them from Google Drive:
 
 Place both files in the same folder as app.py.
 
-4️⃣ Set PlotSense API Key
+### 4️⃣ Set PlotSense API Key
 
 Setting Up Your API Key
 
