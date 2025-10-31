@@ -114,6 +114,7 @@ Open the URL shown in your terminal e.g., ```http://localhost:8501``` to access 
 
 Watch the demo here:
 
+[![Watch the video](https://img.youtube.com/vi/<RMOajjFoLQE>/0.jpg)](https://youtu.be/RMOajjFoLQE)
 [https://youtu.be/RMOajjFoLQE]
 
 ## Social Media Post
