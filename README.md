@@ -84,11 +84,13 @@ Follow the steps below:
 
 - Add your API key to the .env file like this:
 
-```bash 
-GROCQ_API_KEY=your_actual_api_key_here```
+```bash
+GROCQ_API_KEY=your_actual_api_key_here
+```
 
 
-5️⃣ Run the app locally
+### 5️⃣ Run the app locally
+
 ```bash
 streamlit run app.py
 ```
