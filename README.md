@@ -66,8 +66,6 @@ Place both files in the same folder as app.py.
 
 ### 4️⃣ Set PlotSense API Key
 
-Setting Up Your API Key
-
 To use this project, you’ll need an API key from Grocq (or whichever platform you’re using).
 
 Follow the steps below:
