@@ -43,11 +43,6 @@ Make sure Python 3.10+ is installed, then run:
 pip install -r requirements.txt
 ```
 
-If you don’t have a requirements.txt file yet, create one automatically by running:
-```bash
-pip freeze > requirements.txt
-```
-
 ### 3️⃣ Download datasets
 
 The project uses two datasets:
